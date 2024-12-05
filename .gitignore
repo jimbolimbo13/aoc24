@@ -1,3 +1,4 @@
 db-data/
 **puzzle.data
 **test.data
+!sql/dayX/*.data
